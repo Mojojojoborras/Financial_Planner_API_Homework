@@ -1,2 +1,3 @@
-# Financial_Planner_API_Homework
-API Homework for my Northwestern Fintech Bootcamp (NU-CHI-VIRT-FIN-PT-04-2021-U-C)
+# Financial Planner API Homework
+<hr />
+Per the directions in the homework assignment (<a href="https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-virt-fin-pt-04-2021-u-c/tree/master/05-APIs/Homework" target="blank">click here to view</a>), I created a new repository and README.md file to submit the homework to.
